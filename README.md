@@ -49,8 +49,7 @@ Este es un proyecto pequeño; si quieres mejorar el README o añadir ejemplos, a
 
 Licencia
 --------
-Por defecto, puedes usar y modificar este código para fines educativos. Añade una licencia explícita si quieres compartirlo públicamente.
-
+--
 Contacto
 -------
-Si necesitas que adapte el README (más detalle técnico, ejemplos de entrada/salida, formatos esperados, tests), dime qué información añadir y lo actualizo.
+--
